@@ -27,5 +27,5 @@ Hoje, estou **focado** em **AI em Machine Learning Engineering**, **Data Enginee
 |**Python**|**Pandas**|**NumPy**|**Plotly**|**MatPlot**|**Seaborn**|**Scikit-learn**|**Keras**|**Tensorflow**|**PyTorch**|
 |**OpenCV**|**YOLO**|**Django**|**Flask**|**Fast API**|**Big Data**|**Data Warehouse**|**Data Lake**|**Data Lakehouse**|**Delta Lakehouse**|**IBM Datastage**|**Pentaho Data Integration**|
 |**Hop**|**MySQL**|**MariaDB**|**PostgreSQL**|**SQL Server**|**Terada**|**Netezza**|**DB2**|**Shell Scripting**|**PHP**|
-|**Javascript**|**Typescript**|**CSS**|**GIT**|**GITHUB**|**GITLAB**|**SVN**||||
+|**Javascript**|**Typescript**|**CSS**|**GIT**|**GITHUB**|**GITLAB**|**SVN**|**NodeJS**|||
 
