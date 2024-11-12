@@ -15,46 +15,17 @@ Hoje, estou **focado** em **AI em Machine Learning Engineering**, **Data Enginee
 
 
 
+## 🔗 Conheça mais e conectemo-nos!
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adaircommodo/)
+
+
+
 ## 🛠 Tecnologias que Conheço, Trabalho ou já trabalhei
 
-- **Python**
-- **Pandas**
-- **NumPy**
-- **Plotly**
-- **MatPlot**
-- **Seaborn**
-- **Scikit-learn**
-- **Keras**
-- **Tensorflow**
-- **PyTorch**
-- **OpenCV**
-- **YOLO**
-- **Django**
-- **Flask**
-- **Fast API**
----
-- **Data Warehouse**
-- **Data Lake**
-- **Data Lakehouse**
-- ---
-- **IBM Datastage**
-- **Pentaho Data Integration**
-- **Hop**
----
-- **MySQL**
-- **MariaDB**
-- **PostgreSQL**
-- **SQL Server**
-- **Terada**
-- **Netezza**
-- **DB2**
----
-- **Shell Scripting**
-- **PHP**
-- **Javascript**
-- **Typescript**
-- **CSS**
-- **GIT**
-- **GITHUB**
-- **GITLAB**
-- **SVN**
+|||||||||||
+|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+|**Python**|**Pandas**|**NumPy**|**Plotly**|**MatPlot**|**Seaborn**|**Scikit-learn**|**Keras**|**Tensorflow**|**PyTorch**|
+|**OpenCV**|**YOLO**|**Django**|**Flask**|**Fast API**|**Big Data**|**Data Warehouse**|**Data Lake**|**Data Lakehouse**|**Delta Lakehouse**|**IBM Datastage**|**Pentaho Data Integration**|
+|**Hop**|**MySQL**|**MariaDB**|**PostgreSQL**|**SQL Server**|**Terada**|**Netezza**|**DB2**|**Shell Scripting**|**PHP**|
+|**Javascript**|**Typescript**|**CSS**|**GIT**|**GITHUB**|**GITLAB**|**SVN**||||
+
