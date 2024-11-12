@@ -20,7 +20,7 @@ Hoje, estou **focado** em **AI em Machine Learning Engineering**, **Data Enginee
 
 
 
-## 🛠 Tecnologias que Conheço, Trabalho ou já trabalhei
+## 🛠 Algumas das Tecnologias que Conheço, Trabalho ou já trabalhei
 
 |||||||||||
 |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
