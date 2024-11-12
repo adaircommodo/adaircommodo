@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Seja bem-vindo(a) ao meu Github!
 
-<!--
-**adaircommodo/adaircommodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📢 Sobre Adair
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalho na ***Minsait Brasil S/A*** como **Engenheiro de Dados** exercendo o cargo de **Consultor Técnico** no **SICOOB**.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou formado em **Análise e Desenvolvimento de Sistemas**, com **Especialização em Análise de Dados**, **MBA em Segurança da Informação**, **Pós-graduado em Data Protection Officer (DPO)** e AGORA **Pós-graduado em Inteligência Artificial com ênfase em Machine Learning**. 
+
+Iniciei minha carreira nos laboratórios de manutenção (suporte), passando por desenvolvimento para web (frontend e backend com PHP e Javascript), por datacenter (DBA MySQL e PostgreSQL), Inteligência em Negócios e Competitiva (Business Intelligence), Gestão de TIC na Administração Pública / Governo e Desenvolvimento de MVP (Produtos Mínimos Viáveis) para Startups.
+
+Também tive a grata oportunidade de trabalhar como **Fullstack Developer** para uma **empresa europeia** situada em **Lagoa - Portugal**.
+
+Hoje, estou **focado** em **AI em Machine Learning Engineering**, **Data Engineering**, **Robot Processing Automation** e **Business Intelligence**.
+
+
+
+## 🛠 Tecnologias que Conheço, Trabalho ou já trabalhei
+
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Plotly**
+- **MatPlot**
+- **Seaborn**
+- **Scikit-learn**
+- **Keras**
+- **Tensorflow**
+- **PyTorch**
+- **OpenCV**
+- **YOLO**
+- **Django**
+- **Flask**
+- **Fast API**
+---
+- **Data Warehouse**
+- **Data Lake**
+- **Data Lakehouse**
+- ---
+- **IBM Datastage**
+- **Pentaho Data Integration**
+- **Hop**
+---
+- **MySQL**
+- **MariaDB**
+- **PostgreSQL**
+- **SQL Server**
+- **Terada**
+- **Netezza**
+- **DB2**
+---
+- **Shell Scripting**
+- **PHP**
+- **Javascript**
+- **Typescript**
+- **CSS**
+- **GIT**
+- **GITHUB**
+- **GITLAB**
+- **SVN**
