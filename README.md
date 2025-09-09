@@ -2,7 +2,7 @@
 
 ## 📢 Sobre Adair
 
-- 🔭 Atualmente trabalho na ***Minsait Brasil S/A*** como **Engenheiro de Dados** exercendo o cargo de **Consultor Técnico** no **SICOOB**.
+- 🔭 Atualmente trabalho na ***Minsait Brasil S/A*** como **Engenheiro de Dados** exercendo o cargo de **Engenheiro de Dados** no **SICOOB**.
 ---
 
 Sou formado em **Análise e Desenvolvimento de Sistemas**, com **Especialização em Análise de Dados**, **MBA em Segurança da Informação**, **Pós-graduado em Data Protection Officer (DPO)**, **Pós-graduado em Inteligência Artificial com ênfase em Machine Learning** e AGORA **Pós-Graduado em Desenvolvimento Blockchain**. 
